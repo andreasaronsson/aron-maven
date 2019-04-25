@@ -1,0 +1,4 @@
+# Release
+
+`mvn unleash:perform`
+
